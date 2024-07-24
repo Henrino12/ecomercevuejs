@@ -1,14 +1,8 @@
 
-## Cart Looks
-CartLooks is an e-commerce platform built with Laravel and Vue.js
 
 ## Installation & Project Setup
 
 1. Clone project
-
-```bash
-git clone https://github.com/ThemeLooks-Team/cartlooks
-```
 2. Copy .env.example 
 
 ```bash
