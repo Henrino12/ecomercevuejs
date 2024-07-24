@@ -48,7 +48,4 @@ npm run watch
 ```bash
 npm run production
 ```
-## Contributors
-- [Kousar Rahman](https://github.com/kousar2334)
-- [Themelooks](http://themelooks.com/)
 
